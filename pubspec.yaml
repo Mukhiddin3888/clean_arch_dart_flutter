@@ -45,7 +45,7 @@ dependencies:
   #built_value:
   built_value: ^8.8.1
 
-  connectivity_plus: ^5.0.2
+#  connectivity_plus: ^5.0.2
 
   #localization:
   easy_localization: ^3.0.3

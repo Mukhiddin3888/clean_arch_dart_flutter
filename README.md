@@ -1,4 +1,4 @@
-# queue_app
+# clean architecture template dart flutter
 
 A new Flutter project.
 
